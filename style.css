@@ -4,6 +4,7 @@ div {
     padding: 30px;
     margin: 30px;
     color: white;
+    line-height: 20px;
 }
 html{
     font-family: "Arial", sans-serif;

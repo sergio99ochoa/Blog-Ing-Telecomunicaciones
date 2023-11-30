@@ -1,7 +1,13 @@
 div {
-    background-color: aquamarine;
+    background-color: #84b6f4;
     border-radius: 30px;
-    padding: 50px;
+    padding: 30px;
     margin: 30px;
+    color: white;
+}
+html{
+    font-family: "Arial", sans-serif;
+}
+.header{
     text-align: center;
 }

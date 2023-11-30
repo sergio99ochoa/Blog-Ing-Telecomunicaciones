@@ -1,4 +1,4 @@
-div {
+div{
     background-color: #84b6f4;
     border-radius: 30px;
     padding: 30px;
@@ -11,4 +11,26 @@ html{
 }
 .header{
     text-align: center;
+}
+footer{
+    background-color: #84b6f4;
+    border-radius: 30px;
+    padding: 30px;
+    margin: 30px;
+    color: white;
+    line-height: 20px;
+}
+img{
+    height: 300px;
+    width: 600px;
+    border-radius: 20px;
+    display: block;
+    margin: 0 auto;
+}
+h2{
+    text-align: center;
+}
+#head{
+    height: auto;
+    width: auto;
 }
